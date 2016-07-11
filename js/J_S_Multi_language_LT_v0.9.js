@@ -181,9 +181,9 @@ Multi_Lang_Wording[2]="JP - 日本語";
 
 //多語系網頁Title招呼語 (顯示在瀏覽TAB上)
 Multi_Lang_Title= new Array();
-Multi_Lang_Title[0]="歡迎來到EQL - PC Stick網站";
-Multi_Lang_Title[1]="Welcome to EQL - PC Stick";
-Multi_Lang_Title[2]="EQLへようこそ - PC Stick";
+Multi_Lang_Title[0]="歡迎來到EQL Homie | 血壓計";
+Multi_Lang_Title[1]="Welcome to EQL - Blood Pressure Monitor";
+Multi_Lang_Title[2]="EQLへようこそ - Blood Pressure Monitor";
 
 
 //=====文字儲存區 END======
