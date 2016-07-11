@@ -1,0 +1,110 @@
+*{
+font-family: 'Noto Sans TC', sans-serif;
+}
+
+#title1{
+  width: auto;
+  height: auto;
+  border-width: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+#title2{
+  font-size: 36px;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 50px;
+  color: white;
+}
+
+#title2_p1_img{
+text-align: center;
+}
+
+#title2_p2_img{
+text-align: center;
+}
+
+#title2_p3_img{
+text-align: center;
+}
+
+#title2_p4_img{
+text-align: center;
+}
+
+#title2_p5_img{
+text-align: center;
+}
+
+.title2_space{
+
+padding-bottom: 30px;
+
+}
+h3{
+color: white;
+font-size: 26px;
+font-weight:300;
+letter-spacing: 2px;
+}
+
+h5{
+color: #5B5B5B;
+font-size: 18px;
+font-weight:300;
+letter-spacing: 1px;
+line-height: 24px;
+}
+
+
+#tit1le3{
+  width: auto;
+  height: auto;
+  border-width: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+.SPEC_BG {
+    width: auto;
+    height: auto;
+    display: block;
+    background-color: grey;
+    background-image: url(../images/spec_bg.jpg);
+    background-position: RIGHT bottom;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#spec_title{
+
+font-size: 36px;
+text-align: center;
+margin-bottom: 15px;
+}
+
+.table{
+margin-left: auto;
+margin-right: : auto;
+}
+
+th{
+  color: #5B5B5B;
+  font-size: 18px;
+  font-weight:500;
+  letter-spacing: 1px;
+  line-height: 24px;
+}
+
+td{
+  color: #5B5B5B;
+  font-size: 18px;
+  font-weight:300;
+  letter-spacing: 1px;
+  line-height: 24px;
+}
