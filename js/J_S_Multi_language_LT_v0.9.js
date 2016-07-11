@@ -93,6 +93,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_navlink1').innerHTML = arr[lang_index].lang_navlink1;
   document.getElementById('lang_navlink2').innerHTML = arr[lang_index].lang_navlink2;
   document.getElementById('lang_navlink3').innerHTML = arr[lang_index].lang_navlink3;
+  document.getElementById('lang_feature_title2').innerHTML = arr[lang_index].lang_feature_title2;
   document.getElementById('lang_feature1_title').innerHTML = arr[lang_index].lang_feature1_title;
   document.getElementById('lang_feature1_content').innerHTML = arr[lang_index].lang_feature1_content;
   document.getElementById('lang_feature2_title').innerHTML = arr[lang_index].lang_feature2_title;
@@ -103,7 +104,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_feature4_content').innerHTML = arr[lang_index].lang_feature4_content;
   document.getElementById('lang_feature5_title').innerHTML = arr[lang_index].lang_feature5_title;
   document.getElementById('lang_feature5_content').innerHTML = arr[lang_index].lang_feature5_content;
-  document.getElementById('lang_spec_title').innerHTML = arr[lang_index].lang_spec_title;
+  document.getElementById('lang_spec_title2').innerHTML = arr[lang_index].lang_spec_title2;
   document.getElementById('lang_items').innerHTML = arr[lang_index].lang_items;
   document.getElementById('lang_functiondescription').innerHTML = arr[lang_index].lang_functiondescription;
   document.getElementById('lang_size').innerHTML = arr[lang_index].lang_size;
